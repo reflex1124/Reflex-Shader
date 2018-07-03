@@ -1,2 +1,3 @@
 # Reflex-Shader
-Reflex Unity Shader
+This is a Unity Shader made for VRChat.
+
