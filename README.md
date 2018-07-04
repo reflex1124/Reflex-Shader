@@ -1,7 +1,7 @@
 # Reflex-Shader
 This is a Unity Shader made for VRChat.
 
-This shader is made with Shader Forge.
+This shader is made with Shader Forge and Amplify Shader Editor.
 
 ![Manual](/Manual.png)
 
